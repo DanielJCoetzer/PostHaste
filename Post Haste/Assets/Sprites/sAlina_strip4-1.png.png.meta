@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: 67426cc01a61949a98beced18be4d738
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25c84a0bfd04ae18112ececf87f922
+      internalID: 233198789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7a6667a86a4f93a1d530570912716
+      internalID: -1712873938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc4d8881e734008b81150abadc6b2b
+      internalID: -1167617926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac95ac46476f4d938759c1928c49902
+      internalID: 1294836634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede5a58c88c446cbafebc571f3a979c
+      internalID: 264634259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b643f97e514349888b4a000a92c9a
+      internalID: 1468248468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7bc1f47e81f449bbc5443b4271a420
+      internalID: 15132332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe5122b37e543799f600a2590e1b21
+      internalID: 2107663081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e248d2d51d3473386ff6f61e3fc28c
+      internalID: -2074838662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9144d7688d72a4a0d83c2711bb18ce23
+      internalID: 816775263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c4537dbb8c74333bfd52d225bb3740
+      internalID: 611125412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447e6ee2db9934e83abd59fae5a2b6c9
+      internalID: 1670323008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a72836ce9a43a897a41cc51ed3abd
+      internalID: 1018253573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd8657e706149cd971cd48dcb07e9d
+      internalID: -1793961154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a0e64839c344096a1a9c0312eed60b
+      internalID: -1931268949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc4eaeb7db045c495402b371f206cd
+      internalID: 1973230962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2082234f50bfb4cd5aa35d72dfca395e
+      internalID: 638648515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4fa162a53e84b57991d0a956c3860b
+      internalID: -299529617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6759cc1735ee44a02969e7a70d5ce6df
+      internalID: 345594703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b447dab591d894dd79dc0040a7d162e1
+      internalID: 182913999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72e8d0a4465a41b39e7533baea9640f
+      internalID: 1688940886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d51383e0b5b4f4f914fdf247196937
+      internalID: -609370210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0acb64a07ba453fa98f31abe452719
+      internalID: -1015154878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951685fed5fc944399d8af71647781d5
+      internalID: 205558443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d6d530c095744f8a7d874f1baf3986
+      internalID: 1297607786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec49eeff1374b399709ad38595bec3
+      internalID: 835199699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6faf81d9a2d0418cb5fdb1efe806325
+      internalID: -1124939773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc3b418e3e74fc5b6de6b42d0fc971
+      internalID: -1775527079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23dfcce73404a1aac3649d07de1715
+      internalID: -1447295205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_29
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0898b9e0cbc4d3db5fdcf4bdea04ad
+      internalID: 302051023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c65e17d8c414f9c8253bd87b75c3db
+      internalID: 678164594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_31
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f8b522b5154de99eb5a0e0052d86e
+      internalID: -788376894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_32
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be515d787e2ed44ddaaf17e8bba259de
+      internalID: 1594840250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5480b2cf0fb4584921c3c37b8adab6
+      internalID: -997509631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_34
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe1718a069f4258bfb20c2f8050e50
+      internalID: -378092605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_35
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d20eaaba5440dd998e2cddc5aef97
+      internalID: -1825611697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_36
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2121a4a63e9614fae8c96c34c20d84e7
+      internalID: 161849235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7528d4f2634758b8429ce0ac60a9c
+      internalID: 2125510532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_38
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93df89cafe38c45ce98665a19cd1ace5
+      internalID: -111983579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_40
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb0dd5bf6844b4285746abee8c9177
+      internalID: -678244588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_41
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0307c892968a494686268fffc35cb60
+      internalID: -189069167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_42
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8270c7ed59c14b57974ddab415592c8
+      internalID: -1889375799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_43
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9e1c2a84cc4682a37f2657e867e6f
+      internalID: 640971034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_44
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4488852d8747098bb13d15af1e390
+      internalID: -1685958365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_45
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41501ebf45e6d4d598600f36d6e90c3c
+      internalID: -2133487832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_46
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01047a3cb00054d479fa05ddae93fe22
+      internalID: 1302075778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_47
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492b96a5ed1046c18a68f4c0e15d910
+      internalID: 2006440067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_48
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa203e5bd713742e39aab5ad7d962c32
+      internalID: -1999182953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_49
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a3c804d69248a894704022af2a43c
+      internalID: -249383412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_50
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20b45340399d4f219bd500b1de46751
+      internalID: -1882019893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_51
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee93ec3d647e4558944efb24f422fee
+      internalID: 465543047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_52
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7b1be5117d43d398aff037eab8621
+      internalID: 1336266057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_53
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b09bd86d6649ad95513cccc1df25c
+      internalID: -366558280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_54
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e212170de96b43ce95f385aeb2b8a0a
+      internalID: -1307408654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_55
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9fc260ac7f45b79b645cd9db26864
+      internalID: 261222010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_56
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38bd358b63c4428682d762e5090cb2d
+      internalID: -80361886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_57
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f66f80ba8004c6bb3fce097a2d6d9b
+      internalID: -1354752097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_58
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eabbc060a84c4dd18faf47546b62e77
+      internalID: -939449684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_59
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3a66d03f574659bf1e88a4868987f
+      internalID: 124399784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_60
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ded0ee525704f9485c3c28696ac268
+      internalID: 1201220569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_61
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f986f56836224325bb85046e921002e
+      internalID: 699628397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_62
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fe2be9224344a49089813d07bf5f9
+      internalID: 73359646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sAlina_strip4-1.png_63
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df309310cc2246f7be56f0b310db451
+      internalID: 1996634669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alina
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b3392d0cfe4731acab35494c375c7
+      internalID: -551981242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alina: -551981242
+      sAlina_strip4-1.png_0: 233198789
+      sAlina_strip4-1.png_1: -1712873938
+      sAlina_strip4-1.png_10: 611125412
+      sAlina_strip4-1.png_11: 1670323008
+      sAlina_strip4-1.png_12: 1018253573
+      sAlina_strip4-1.png_13: -1793961154
+      sAlina_strip4-1.png_14: -1931268949
+      sAlina_strip4-1.png_15: 1973230962
+      sAlina_strip4-1.png_16: 638648515
+      sAlina_strip4-1.png_17: -299529617
+      sAlina_strip4-1.png_18: 345594703
+      sAlina_strip4-1.png_19: 182913999
+      sAlina_strip4-1.png_2: -1167617926
+      sAlina_strip4-1.png_20: 1688940886
+      sAlina_strip4-1.png_21: -609370210
+      sAlina_strip4-1.png_22: -1015154878
+      sAlina_strip4-1.png_23: 205558443
+      sAlina_strip4-1.png_24: 1297607786
+      sAlina_strip4-1.png_25: 835199699
+      sAlina_strip4-1.png_26: -1124939773
+      sAlina_strip4-1.png_27: -1775527079
+      sAlina_strip4-1.png_28: -1447295205
+      sAlina_strip4-1.png_29: 302051023
+      sAlina_strip4-1.png_3: 1294836634
+      sAlina_strip4-1.png_30: 678164594
+      sAlina_strip4-1.png_31: -788376894
+      sAlina_strip4-1.png_32: 1594840250
+      sAlina_strip4-1.png_33: -997509631
+      sAlina_strip4-1.png_34: -378092605
+      sAlina_strip4-1.png_35: -1825611697
+      sAlina_strip4-1.png_36: 161849235
+      sAlina_strip4-1.png_37: 2125510532
+      sAlina_strip4-1.png_38: -111983579
+      sAlina_strip4-1.png_4: 264634259
+      sAlina_strip4-1.png_40: -678244588
+      sAlina_strip4-1.png_41: -189069167
+      sAlina_strip4-1.png_42: -1889375799
+      sAlina_strip4-1.png_43: 640971034
+      sAlina_strip4-1.png_44: -1685958365
+      sAlina_strip4-1.png_45: -2133487832
+      sAlina_strip4-1.png_46: 1302075778
+      sAlina_strip4-1.png_47: 2006440067
+      sAlina_strip4-1.png_48: -1999182953
+      sAlina_strip4-1.png_49: -249383412
+      sAlina_strip4-1.png_5: 1468248468
+      sAlina_strip4-1.png_50: -1882019893
+      sAlina_strip4-1.png_51: 465543047
+      sAlina_strip4-1.png_52: 1336266057
+      sAlina_strip4-1.png_53: -366558280
+      sAlina_strip4-1.png_54: -1307408654
+      sAlina_strip4-1.png_55: 261222010
+      sAlina_strip4-1.png_56: -80361886
+      sAlina_strip4-1.png_57: -1354752097
+      sAlina_strip4-1.png_58: -939449684
+      sAlina_strip4-1.png_59: 124399784
+      sAlina_strip4-1.png_6: 15132332
+      sAlina_strip4-1.png_60: 1201220569
+      sAlina_strip4-1.png_61: 699628397
+      sAlina_strip4-1.png_62: 73359646
+      sAlina_strip4-1.png_63: 1996634669
+      sAlina_strip4-1.png_7: 2107663081
+      sAlina_strip4-1.png_8: -2074838662
+      sAlina_strip4-1.png_9: 816775263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
